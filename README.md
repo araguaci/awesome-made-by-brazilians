@@ -81,6 +81,10 @@
   The unofficial WWDC app for macOS  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
 
+- **[i-educar](https://github.com/portabilis/i-educar)** by [portabilis](https://github.com/portabilis)
+  Lançando o maior software livre de educação do Brasil!
+  ![Stars](https://img.shields.io/github/stars/i-educar/i-educar.svg?style=flat-square)
+
 <a name="awesomes"></a>
 
 ### Awesomes & Lists
