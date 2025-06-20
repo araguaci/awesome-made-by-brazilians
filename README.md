@@ -7,6 +7,7 @@
 
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
+- [Bend](#bend)
 - [C](#c)
 - [C#](#csharp)
 - [C++](#cpp)
@@ -16,10 +17,13 @@
 - [Delphi](#delphi)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#js)
 - [Lua](#lua)
 - [PHP](#php)
 - [Python](#python)
+- [Quint](#quint)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -65,10 +69,10 @@
   ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square)
  [![license](https://img.shields.io/github/license/portabilis/i-educar.svg)](/LICENSE)
  
-- **[LangFlow](https://github.com/logspace-ai/langflow)** by [logspace-ai](https://github.com/logspace-ai)  
-  A User Interface for LangChain  
-  ![Stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=flat-square)
- [![license](https://img.shields.io/github/license/logspace-ai/langflow.svg)](/LICENSE)
+- **[LangFlow](https://github.com/langflow-ai/langflow)** by [langflow-ai](https://github.com/langflow-ai)  
+  Langflow é um construtor de aplicações de low-code para aplicações de RAG e IA multiagente. É baseado em Python e compatível com qualquer modelo, API ou banco de dados.
+  ![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square)
+ [![license](https://img.shields.io/github/license/langflow-ai/langflow.svg)](/LICENSE)
 
 - **[Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)** by [okfn-brasil](https://github.com/okfn-brasil)  
   Serenata de Amor is an open project using artificial intelligence for social control of public administration  
@@ -124,6 +128,11 @@
   ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/wmitrut/awesome-brazilian-devblogs.svg)](/LICENSE)
 
+- **[awesome-canvas](https://github.com/raphamorim/awesome-canvas)** by [Raphael Amorim](https://github.com/raphamorim/)
+  A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+  ![Stars](https://img.shields.io/github/stars/raphamorim/awesome-canvas.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/raphamorim/awesome-canvas.svg)](/LICENSE)
+
 - **[awesome-csirt](https://github.com/Spacial/csirt)** by [Spacial](https://github.com/Spacial/)
   Awesome-CSIRT is a curated list of links and resources in security and csirt daily activities  
   ![Stars](https://img.shields.io/github/stars/spacial/csirt.svg?style=flat-square)
@@ -153,6 +162,11 @@
   A curated list of SEO links  
   ![Stars](https://img.shields.io/github/stars/teles/awesome-seo.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/teles/awesome-seo.svg)](/LICENSE)
+
+- **[awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)** by [birobirobiro](https://github.com/birobirobiro)  
+  A curated list of awesome things related to shadcn/ui
+  ![Stars](https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square)
+ [![license](https://img.shields.io/github/license/birobirobiro/awesome-shadcn-ui)](/LICENSE)
 
 - **[awesome-svg](https://github.com/willianjusten/awesome-svg)** by [willianjusten](https://github.com/willianjusten)  
   A curated list of SVG  
@@ -193,7 +207,17 @@
   A lot of open-source's challenges of jobs to test your knowledge  
   ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/LICENSE)
-  
+
+- **[Frontend Infrastructure](https://github.com/imteekay/frontend-infrastructure)** by [TK](https://github.com/imteekay)  
+  Research on Frontend Infrastructure
+  ![Stars](https://img.shields.io/github/stars/imteekay/frontend-infrastructure.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/frontend-infrastructure.svg)](/LICENSE)
+
+- **[Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path)** by [TK](https://github.com/imteekay)  
+  A Learning Path for Functional Programming
+  ![Stars](https://img.shields.io/github/stars/imteekay/functional-programming-learning-path.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/functional-programming-learning-path.svg)](/LICENSE)
+
 - **[Links-uteis](https://github.com/OfficialMarinho/Links-uteis)** by [OfficialMarinho](https://github.com/OfficialMarinho)  
   useful links for the development of programming and design projects  
   ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square)
@@ -209,15 +233,30 @@
   ![Stars](https://img.shields.io/github/stars/apsantos-dev/modelo-de-contrato.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/apsantos-dev/modelo-de-contrato.svg)](/LICENSE)
 
+- **[Mulheres na Tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)** by [anatechdev](https://github.com/anatechdev)  
+  Reference content produced by inspiring women and technology communities. 
+  ![Stars](https://img.shields.io/github/stars/anatechdev/mulheres-na-tecnologia.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/anatechdev/mulheres-na-tecnologia.svg)](/LICENSE)
+
 - **[Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)** by [kelvins](https://github.com/kelvins)  
   List os brazilian cities  
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/kelvins/Municipios-Brasileiros.svg)](/LICENSE)
 
+- **[Programming Language Research](https://github.com/imteekay/programming-language-research)** by [TK](https://github.com/imteekay)  
+  Research on programming languages, compilers, interpreters
+  ![Stars](https://img.shields.io/github/stars/imteekay/programming-language-research.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/programming-language-research.svg)](/LICENSE)
+
 - **[remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)** by [lerrua](https://github.com/lerrua)  
   Companies with remote job on Brazil  
   ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/lerrua/remote-jobs-brazil.svg)](/LICENSE)
+
+- **[Web Performance Research](https://github.com/imteekay/web-performance-research)** by [TK](https://github.com/imteekay)  
+  Research on Web Performance
+  ![Stars](https://img.shields.io/github/stars/imteekay/web-performance-research.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/web-performance-research.svg)](/LICENSE)
 
 - **[women-teaching-tech](https://github.com/compiladoras/women-teaching-tech)** by [compiladoras](https://github.com/compiladoras)  
   List of channels and courses on technology made by women  
@@ -225,6 +264,15 @@
  [![license](https://img.shields.io/github/license/compiladoras/women-teaching-tech.svg)](/LICENSE)
 
 <a name="c"></a>
+
+### Bend
+
+<a name="c"></a>
+
+- **[Bend](https://github.com/HigherOrderCO/Bend)** by [VictorTaelin](https://github.com/VictorTaelin)  
+  A high-level, massively parallel programming language  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Bend.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/Bend.svg)](/LICENSE)
 
 ### C
 
@@ -331,6 +379,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/bananacss/bananacss.svg)](/LICENSE)
 
+- **[css2wind](https://github.com/LukeberryPi/css2wind)** by [LukeberryPi](https://github.com/LukeberryPi)  
+  A wonderful game that translates the CSS property to its Tailwind CSS equivalent  
+  ![Stars](https://img.shields.io/github/stars/LukeberryPi/css2wind.svg?style=flat-square)
+  [![license](https://img.shields.io/github/license/LukeberryPi/css2wind.svg)](/LICENSE)
+
 - **[CSS Components](https://github.com/felipefialho/css-components)** ny [felipefialho](https://github.com/felipefialho)  
   Using the power of CSS and without Javascript  
   ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square)
@@ -340,6 +393,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   Simple loaders for your web applications using only one div and pure CSS  
   ![Stars](https://img.shields.io/github/stars/raphaelfabeni/css-loader.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/raphaelfabeni/css-loader.svg)](/LICENSE)
+
+- **[luxacss](https://github.com/luxonauta/luxacss)** by [luxonauta](https://github.com/luxonauta)  
+  The minimalist CSS library  
+  ![Stars](https://img.shields.io/github/stars/luxonauta/luxacss.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/luxonauta/luxacss.svg)](/LICENSE)  
 
 - **[Milligram](https://github.com/milligram/milligram)** by [cjpatoilo](https://github.com/cjpatoilo)  
   A minimalist CSS framework  
@@ -495,6 +553,26 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square)
  [![license](https://img.shields.io/github/license/tsuru/tsuru.svg)](/LICENSE)
 
+
+<a name="haskell"></a>
+
+### Haskell
+
+- **[Kind](https://github.com/HigherOrderCO/Kind)** by [HigherOrderCO](https://github.com/HigherOrderCO)  
+  A modern proof language  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Kind?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/Kind.svg)](/LICENSE)
+
+
+<a name="java"></a>
+
+### Java
+
+- **[BuildCLI](https://github.com/BuildCLI/BuildCLI)** by [wheslleyrimar](https://github.com/wheslleyrimar)  
+  BuildCLI is a command-line interface (CLI) tool for managing and automating common tasks in Java project development  
+  ![Stars](https://img.shields.io/github/stars/BuildCLI/BuildCLI?style=flat-square)
+ [![license](https://img.shields.io/github/license/BuildCLI/BuildCLI.svg)](/LICENSE)
+
 <a name="js"></a>
 
 ### JavaScript
@@ -509,6 +587,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/fdaciuk/ajax.svg)](/LICENSE)
   
+- **[Algorithms & Data Structures](https://github.com/imteekay/algorithms)** by [TK](https://github.com/imteekay)  
+  Algorithms & Data Structures studies
+  ![Stars](https://img.shields.io/github/stars/imteekay/algorithms.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/algorithms.svg)](/LICENSE)
+
 - **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
   An API that gives access to resources available on Brazil  
  ![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)  
@@ -603,6 +686,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   A filter for bad words (in Portuguese).  
   ![Stars](https://img.shields.io/github/stars/portujs/piii.js?style=flat-square)
  [![license](https://img.shields.io/github/license/portujs/piii.js.svg)](/LICENSE)
+
+- **[poku](https://github.com/wellwelwel/poku)** by [Weslley Araújo](https://github.com/wellwelwel)  
+  Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.  
+  ![Stars](https://img.shields.io/github/stars/wellwelwel/poku?style=flat-square)
+ [![license](https://img.shields.io/github/license/wellwelwel/poku.svg)](/LICENSE)
 
 - **[qualy-presenter](https://github.com/Qualy-org/qualy-presenter)** by [willianjusten](https://github.com/willianjusten)  
   A boilerplate to create presentations  
@@ -721,10 +809,20 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/cuducos/calculadora-do-cidadao?style=flat-square)
  [![license](https://img.shields.io/github/license/cuducos/calculadora-do-cidadao.svg)](/LICENSE)
 
+- **[cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi)** by [arthurhenrique](https://github.com/arthurhenrique)  
+  Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytest  
+  ![Stars](https://img.shields.io/github/stars/arthurhenrique/cookiecutter-fastapi?style=flat-square)
+ [![license](https://img.shields.io/github/license/arthurhenrique/cookiecutter-fastapi.svg)](/LICENSE)
+
 - **[dateutil](https://github.com/dateutil/dateutil)** by [niemeyer](https://github.com/niemeyer)  
   Useful extensions to the standard Python datetime features  
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
  [![license](https://img.shields.io/github/license/dateutil/dateutil.svg)](/LICENSE)
+
+- **[django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant)** by [Vinta Software](https://github.com/vintasoftware)  
+  Integrate AI Assistants with Django to build intelligent applications  
+  ![Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-assistant?style=flat-square)
+ [![license](https://img.shields.io/github/license/vintasoftware/django-ai-assistant.svg)](/LICENSE)
 
 - **[django-htmlmin](https://github.com/cobrateam/django-htmlmin)** by [cobrateam](https://github.com/cobrateam)  
   HTML minifier for Python frameworks  
@@ -741,10 +839,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square)
  [![license](https://img.shields.io/github/license/bernardopires/django-tenant-schemas.svg)](/LICENSE)
 
-- **[Dynaconf](https://github.com/rochacbruno/dynaconf)** by [rochacbruno](https://github.com/rochacbruno/)  
+- **[Dynaconf](https://github.com/dynaconf/dynaconf)** by [rochacbruno](https://github.com/rochacbruno/)  
   Configuration Management for Python  
-  ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square)
- [![license](https://img.shields.io/github/license/rochacbruno/dynaconf.svg)](/LICENSE)
+  ![Stars](https://img.shields.io/github/stars/dynaconf/dynaconf?style=flat-square)
+ [![license](https://img.shields.io/github/license/dynaconf/dynaconf.svg)](/LICENSE)
 
 - **[fklearn](https://github.com/nubank/fklearn)** by [Nubank](https://github.com/nubank)  
   fklearn: Functional Machine Learning  
@@ -811,6 +909,15 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/gabrielfalcao/sure?style=flat-square)
  [![license](https://img.shields.io/github/license/gabrielfalcao/sure.svg)](/LICENSE)
 
+<a name="quint"></a>
+
+### Quint
+
+- **[Quint](https://github.com/informalsystems/quint)** by [bugarela](https://github.com/bugarela)  
+  A modern and executable specification language  
+  ![Stars](https://img.shields.io/github/stars/informalsystems/quint?style=flat-square)
+ [![license](https://img.shields.io/github/license/informalsystems/quint.svg)](/LICENSE)
+
 <a name="Ruby"></a>
 
 ### Ruby
@@ -839,10 +946,35 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Rust
 
+- **[Bend](https://github.com/HigherOrderCO/Bend)** by [HigherOrderCO](https://github.com/HigherOrderCO)  
+  A massively parallel, high-level programming language  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Bend?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/Bend.svg)](/LICENSE)
+
+- **[HVM](https://github.com/HigherOrderCO/HVM)** by [HigherOrderCO](https://github.com/HigherOrderCO)  
+  A massively parallel, optimal functional runtime in Rust  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/HVM?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/HVM.svg)](/LICENSE)
+
+- **[KFtray](https://github.com/hcavarsan/kftray)** by [hcavarsan](https://github.com/hcavarsan)  
+  A cross-platform app for managing Kubernetes port forward configurations in the menu bar.
+  ![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square)
+ [![license](https://img.shields.io/github/license/hcavarsan/kftray.svg)](/LICENSE)
+
+- **[Marmite](https://github.com/rochacbruno/marmite/)** by [rochacbruno](https://github.com/rochacbruno)  
+  A Static Site Generator for blogs that is simple, fast and written in Rust  
+  ![Stars](https://img.shields.io/github/stars/rochacbruno/marmite?style=flat-square)
+ [![license](https://img.shields.io/github/license/rochacbruno/marmite.svg)](/LICENSE)
+
 - **[py2rs](https://github.com/rochacbruno/py2rs)** by [rochacbruno](https://github.com/rochacbruno)  
   A quick reference guide for the Pythonista in the process of becoming a Rustacean  
   ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
  [![license](https://img.shields.io/github/license/rochacbruno/py2rs.svg)](/LICENSE)
+
+- **[Rio](https://github.com/raphamorim/rio)** by [raphamorim](https://github.com/raphamorim)  
+  A hardware-accelerated GPU terminal emulator that runs in desktops and browsers  
+  ![Stars](https://img.shields.io/github/stars/raphamorim/rio?style=flat-square)
+ [![license](https://img.shields.io/github/license/raphamorim/rio.svg)](/LICENSE)
 
 <a name="shell"></a>
 
@@ -871,6 +1003,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.  
   ![Stars](https://img.shields.io/github/stars/open-cli-tools/concurrently?style=flat-square)
  [![license](https://img.shields.io/github/license/open-cli-tools/concurrently.svg)](https://github.com/open-cli-tools/concurrently/blob/master/LICENSE)
+
+- **[ExpressoTS Framework](https://github.com/expressots/expressots)** by [Richard Zampieri](https://github.com/rsaz)  
+  A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎  
+  ![Stars](https://img.shields.io/github/stars/expressots/expressots?style=flat-square)
+  [![license](https://img.shields.io/github/license/expressots/expressots.svg)](https://github.com/expressots/expressots/blob/main/LICENSE.md)
 
 - **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
   Project Manager Extension for Visual Studio Code  
